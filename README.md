@@ -1,5 +1,5 @@
 # Project-Stim
-This is a syntopical reading project about microstimulation. 
+This is a syntopical reading project on microstimulation. 
 
 What is syntopical reading? https://fs.blog/how-to-read-a-book/
 
