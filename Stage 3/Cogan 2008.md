@@ -37,4 +37,4 @@ Three citations ([McCreery et al., 2000](https://www.sciencedirect.com/science/a
 ## Charge Injection Mechanisms
 Charge injection can happen either capacitatively or fardaically. In theory, capacitive charge injection is more favorable as it is less likely to cause damage, however they have lower maximum Q<sub>inj</sub>.
 
-![Cogan 2008 Table 2: Charge-injection limits of electrode materials for stimulation in the CNS](https://github.com/AllenMuhanChen/Project-Stim/blob/master/Stage%203/Figures/Cogan_2008_Table2.png "Cogan 2008 Table 2: Charge-injection limits of electrode materials for stimulation in the CNS")
+![Cogan 2008 Table 2: Charge-injection limits of electrode materials for stimulation in the CNS](https://github.com/AllenMuhanChen/Project-Stim/blob/master/Stage%203/Figures/Cogan_2008_Table2_real.png "Cogan 2008 Table 2: Charge-injection limits of electrode materials for stimulation in the CNS")
