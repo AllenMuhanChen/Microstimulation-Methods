@@ -50,7 +50,6 @@ Donaldson & Donaldson 1986[[I]](https://link.springer.com/article/10.1007/BF0244
 ## Charge Injection Mechanisms
 Charge injection can happen either capacitatively or fardaically. In theory, capacitive charge injection is more favorable as it is less likely to cause damage, however they have lower maximum Q<sub>inj</sub>.
 
-
-
-
+## Cyclic Voltammetry
+CV can be used to measure the cathodal CSC<sub>c</sub> (Charge Storage Capacity) of electrodes. This is calculated from the time integral of the cathodic current slow-sweep-rate cyclic voltammegram over a potential range that is just within the wagter electrolysis window (-0.6V to 0.8V versus Ag|AgCl). 
 
