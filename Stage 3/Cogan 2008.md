@@ -38,11 +38,18 @@ Three citations ([McCreery et al., 2000](https://www.sciencedirect.com/science/a
 ![Cogan 2008 Table 2: Charge-injection limits of electrode materials for stimulation in the CNS](https://github.com/AllenMuhanChen/Project-Stim/blob/master/Stage%203/Figures/Cogan_2008_Table2_real.png "Cogan 2008 Table 2: Charge-injection limits of electrode materials for stimulation in the CNS")
 
 **Pt and Pt-Ir Alloys:**</br>
-[Rose & Robblee 1990](https://ieeexplore.ieee.org/abstract/document/61038) showed limits of 50-150 μC cm<sup>-2</sup> to avoid reduction and oxidation of water.</br> 
-[Cogan et al., 2005](https://ieeexplore.ieee.org/abstract/document/1495706) showed that as bias was increased from 0.1 V to 0.7 V (Ag|AgCl), the cathodal injection limit (based on avoiding electrolysis) increased from 90 μC cm<sup>-2</sup> to 300 μC cm<sup>-2</sup>. 
+[Rose & Robblee 1990](https://ieeexplore.ieee.org/abstract/document/61038) showed limits of 50-150 μC cm<sup>-2</sup> to avoid reduction and oxidation of water.</br>
+
+[Cogan et al., 2005](https://ieeexplore.ieee.org/abstract/document/1495706) showed that as bias was increased from 0.1 V to 0.7 V (Ag|AgCl), the cathodal injection limit (based on avoiding electrolysis) increased from 90 μC cm<sup>-2</sup> to 300 μC cm<sup>-2</sup>. However, because Pt electrodes establish a rest potential of 0 V versus Ag|AgCl, the total charge available for cathodal stimulation is reduced to that between 0 V and -0.6 V (Ag|AgCl) leading to a charge injection limit of around **~100μC cm<sup>-2</sup>** </br>
+
+Donaldson & Donaldson 1986[[I]](https://link.springer.com/article/10.1007/BF02441604)&[[II]](https://link.springer.com/article/10.1007/BF02441605) suggested that keeping electrode potential within the safe limits of -0.6 and 0.8 V (Ag|AgCl) is a more important objective than achieving a well balanced waveform. This is also an easier objective. </br>
+
+[Robblee et al., 1983](https://www.sciencedirect.com/science/article/pii/0165027083900626) showed that Pt dissolution was observed at charge densities of 20-50 μC cm<sup>-2</sup> at rates of 38 ng h<sup>-1</sup>. </br>
+
 
 ## Charge Injection Mechanisms
 Charge injection can happen either capacitatively or fardaically. In theory, capacitive charge injection is more favorable as it is less likely to cause damage, however they have lower maximum Q<sub>inj</sub>.
+
 
 
 
