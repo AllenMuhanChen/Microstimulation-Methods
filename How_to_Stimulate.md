@@ -7,3 +7,7 @@ To microstimulate safely, you need to create a stimulation waveform (current ove
 3. Current Density in the leading phase (Q<sub>inj</sub>) less than 50-150 μC cm<sup>-2</sup>
 
 Plexon.m takes parameters about pulse duration and amplitude and outputs q and Q<sub>inj</sub>. With just one site, it seems impossible for Q<sub>inj</sub> to be less than 150 μC cm<sup>-2</sup> if q is over the excitation threshold. However, we are not sure if it is absolutely necessary for charge density to be at this range. Taking 4 different sites, and simnply moddelling it as one site with 4 times the GSA, we can achieve ~147 μC cm<sup>-2</sup> Q<sub>inj</sub> at exactly 1 nC/ph<sup>-1</sup>, the minimum excitation threshold.
+
+Questions:
+1. Relationship between contact size, charge applied and voltage?
+2. Can we push the charge density above 150?
