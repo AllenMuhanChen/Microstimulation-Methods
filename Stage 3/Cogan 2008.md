@@ -23,7 +23,7 @@ For example, glucose and tyrosine.
 Common with Pt and Iridium Oxide  
 
 ## Excitation Thresholds
-Three citations ([McCreery et al., 2000](https://www.sciencedirect.com/science/article/pii/S0378595500001908); [McCreery et al., 1994](https://www.sciencedirect.com/science/article/pii/0378595594902585); [McCreery et al., 2006](https://ieeexplore.ieee.org/abstract/document/1608523)) reported a **charge/phase** threshold of ~1 nC ph<sup>-1</sup>. 
+Three citations ([McCreery et al., 2000](https://www.sciencedirect.com/science/article/pii/S0378595500001908); [McCreery et al., 1994](https://www.sciencedirect.com/science/article/pii/0378595594902585); [McCreery et al., 2006](https://ieeexplore.ieee.org/abstract/document/1608523)) reported a **charge/phase** threshold of ~1 nC ph<sup>-1</sup> in cat cochlear nucleus and cortex. 
 
 Placement | Species | Threshold charge/phase (nC ph<sup>-1</sup>) | Threshold charge density (μC cm<sup>-2</sup>) | Pulse Width (μs)
 :---: | :---: | :---: | :---: | :---:                  
@@ -32,4 +32,7 @@ Placement | Species | Threshold charge/phase (nC ph<sup>-1</sup>) | Threshold ch
 
 
 ## Damage Thresholds
-Three citations ([McCreery et al., 2000](https://www.sciencedirect.com/science/article/pii/S0378595500001908); [McCreery et al., 1994](https://www.sciencedirect.com/science/article/pii/0378595594902585); [McCreery et al., 2006](https://ieeexplore.ieee.org/abstract/document/1608523)) reported a **charge/phase** limit of 4 nC ph<sup>-1</sup>.
+Three citations ([McCreery et al., 2000](https://www.sciencedirect.com/science/article/pii/S0378595500001908); [McCreery et al., 1994](https://www.sciencedirect.com/science/article/pii/0378595594902585); [McCreery et al., 2006](https://ieeexplore.ieee.org/abstract/document/1608523)) reported a **charge/phase** limit of 4 nC ph<sup>-1</sup> in cat cochlear nucleus and cortex.
+
+## Charge Injection Mechanisms
+Charge injection can happen either capacitatively or fardaically. In theory, capacitive charge injection is more favorable as it is less likely to cause damage, however they have lower maximum Q<sub>inj</sub>.
