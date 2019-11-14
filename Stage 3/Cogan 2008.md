@@ -53,3 +53,6 @@ Charge injection can happen either capacitatively or fardaically. In theory, cap
 ## Cyclic Voltammetry
 CV can be used to measure the cathodal CSC<sub>c</sub> (Charge Storage Capacity) of electrodes. This is calculated from the time integral of the cathodic current slow-sweep-rate cyclic voltammegram over a potential range that is just within the wagter electrolysis window (-0.6V to 0.8V versus Ag|AgCl). 
 
+## Voltage Transients
+Frequently used to measure the maximum charge that can be injected in a **current-controlled** stimulation pulse. 
+The voltage transient 
