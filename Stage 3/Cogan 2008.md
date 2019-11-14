@@ -55,4 +55,10 @@ CV can be used to measure the cathodal CSC<sub>c</sub> (Charge Storage Capacity)
 
 ## Voltage Transients
 Frequently used to measure the maximum charge that can be injected in a **current-controlled** stimulation pulse. 
-The voltage transient 
+The voltage transient is simply what happens to the voltage between the lead and reference electrode over the course of a current pulse. 
+
+The transient: ΔV = i<sub>c</sub>R<sub>i</sub> + η<sub>c</sub> + η<sub>a</sub> + ΔE<sub>o</sub>  
+1. i<sub>c</sub>R<sub>i</sub>: ohmic voltage drop, where R<sub>i</sub> is the resistance of the electrolyte, and i<sub>c</sub> is the cathodal current. 
+2. η<sub>a</sub>: activation overpotential. voltage drop at the electrode-electrolyte interface necessary to maintain a net current flow when the current is provided by reduction or oxidation reactions. 
+3. η<sub>c</sub>: concentration overpotential. Voltage resulting in a concentration gradient of charged molecules between the electrode surface and the rest of the electrolyte. This gradient is formed when a current flows via redox reactions. 
+4. ΔE<sub>o</sub>: Shift in the equilibrium potential of the electrode. 

@@ -20,4 +20,9 @@ Questions:
 1. What exactly is needed to cause electrolysis? Charge? Voltage? 
 2. Is positive biasing safe in-vivo?
 
+## Brummer & Turner 1977
+I didn't really learn a whole lot from this paper. The biggest take away: There are 3 safe reactions for injecting charge from a noble metal into tissue: these are called surface processes. And they are 1) Modification of the electrical double layer at the interface or two symmetric surface-layer redox reactions. ([Brummer & Turner 1975](https://www.sciencedirect.com/science/article/pii/030245987580002X) and [Brummer & Turner 1977](https://ieeexplore.ieee.org/abstract/document/4122638)) 
 
+What I need to thoroughly review tomorrow:
+1. Principles behind a capacitor
+2. Understand all the chemical reactions that can happen at the interface: ([Brummer & Turner 1975](https://www.sciencedirect.com/science/article/pii/030245987580002X)
