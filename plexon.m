@@ -1,5 +1,5 @@
 %% How big are my sites?
-n = 4; %how many sites?
+n = 1; %how many sites?
 d = 15*10^-6;
 r = d/2;
 fprintf("Site Diameter is: %d %s\n", d, "meters"); 
@@ -15,7 +15,7 @@ fprintf("Site Area is: %d %s\n", A_um, "um^2")
 
 %% Generating Pulse and Calculating Charge Density and Charge/Pulse
 %Parameters of Pulse
-I = 5;        I = I*10^3; %in uA converted to nA. Generally between 50-200 uA. 
+I = 10;        I = I*10^3; %in uA converted to nA. Generally between 50-200 uA. 
 duration = 50; duration = duration*10^-6; %leading phase in usec converted to sec 
 
 %Calculating Charge, Charge Density and Charge / Phase
