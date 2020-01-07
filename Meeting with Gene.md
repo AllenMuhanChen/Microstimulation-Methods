@@ -16,4 +16,13 @@
 3. with a charge density of 283 μC/cm<sup>-2</sup>, I get Charge/phase of 0.5 nC. 
 4. 50μm within stereotrode or tetrode group. 
 
+## Notes From Meeting
+1. Strength Duration Curve Tells Impact from Length of Phase
+2. Merril 2004: review
+3. Ways to increase charge: 
+    1. Increase Surface Area: PEDOT-PSS
+    2. Increase Charge capacity (charge available for chemistry): Activated Iridium
+4. Avoid blood vessels at all costs (create immune raction). Can do this with rapid insertion.
+5. Monitor voltage: can tell u about scar tissue formation and if bubbles are forming, etc... 
+
 
